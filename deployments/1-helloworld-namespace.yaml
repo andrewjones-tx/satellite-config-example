@@ -14,6 +14,6 @@
 kind: Namespace
 apiVersion: v1
 metadata:
-  name: 2700039nft-ns-se-l3
+  name: 2700039nft-se-l3
   labels:
     deploy.razee.io/mode: "EnsureExists"
