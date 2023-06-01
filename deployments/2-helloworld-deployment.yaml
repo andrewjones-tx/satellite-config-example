@@ -20,7 +20,7 @@ metadata:
     app: helloworld-app
     razee/watch-resource: lite
   name: helloworld-app
-  namespace: 2700039nft-ns-se-l3
+  namespace: 2700039nft-se-l3
 spec:
   replicas: 1
   selector:
