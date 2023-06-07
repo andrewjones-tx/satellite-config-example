@@ -37,4 +37,5 @@ spec:
           imagePullPolicy: Always
           env:
            - name: VERSION
-             value: "1.0" 
+             value: "1.2"
+
