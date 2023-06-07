@@ -38,3 +38,4 @@ spec:
           env:
            - name: VERSION
              value: "1.2"
+
